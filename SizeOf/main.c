@@ -12,7 +12,7 @@ int main()
     printf("\ndouble: %zd", sizeof(double));
     printf("\nlong double: %zd", sizeof(long double));
     printf("\nunsigned int: %zd", sizeof(unsigned int));
-    printf("\nChar: %zd", sizeof());
+    printf("\nChar: %zd", sizeof(char));
     printf("\nChar: %zd", sizeof(char));
 
     return 0;
