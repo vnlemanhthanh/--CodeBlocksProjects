@@ -7,5 +7,6 @@
 		<Project filename="231116-Bitwise/231116-Bitwise.cbp" />
 		<Project filename="SizeOf/SizeOf.cbp" />
 		<Project filename="231116-If/231116-If.cbp" />
+		<Project filename="231117-Switch/231117-Switch.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
