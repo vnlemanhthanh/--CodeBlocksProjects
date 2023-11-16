@@ -3,5 +3,7 @@
 	<Workspace title="CBP">
 		<Project filename="231116/231116.cbp" />
 		<Project filename="231116-Operators/231116-Operators.cbp" />
+		<Project filename="231116-ChallengeConvert/231116-ChallengeConvert.cbp" />
+		<Project filename="231116-Bitwise/231116-Bitwise.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

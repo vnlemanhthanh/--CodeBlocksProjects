@@ -3,13 +3,18 @@
 
 int main()
 {
-    int a = 12;
-    int b = 20;
-    _Bool result;
+    _Bool a = 1;
+    _Bool b = 0;
+    _Bool result1;
+    _Bool result2;
+    _Bool result3;
 
-    result = a && b;
+    result1 = a && b;
+    result2 = a || b;
+    result3 = !a;
 
-    printf("\n%d\n", result);
+
+    printf("\n%d \n%d \n%d \n", result1, result2, result3);
 
     return 0;
 }
