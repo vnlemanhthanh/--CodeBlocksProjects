@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700188050 source:c:\users\vnlemanhthanh\codeblocksprojects\231117-array\main.c
+	<stdio.h>
+	<stdlib.h>
+
