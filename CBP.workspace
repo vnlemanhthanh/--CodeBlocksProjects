@@ -8,5 +8,7 @@
 		<Project filename="SizeOf/SizeOf.cbp" />
 		<Project filename="231116-If/231116-If.cbp" />
 		<Project filename="231117-Switch/231117-Switch.cbp" />
+		<Project filename="231117-GuessNumber/231117-GuessNumber.cbp" />
+		<Project filename="231117-Array/231117-Array.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
