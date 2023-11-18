@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700279317 source:c:\users\vnlemanhthanh\codeblocksprojects\231118-weather\main.c
+	<stdio.h>
+	<stdlib.h>
+
