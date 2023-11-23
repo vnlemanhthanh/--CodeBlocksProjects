@@ -12,5 +12,6 @@
 		<Project filename="231117-Array/231117-Array.cbp" />
 		<Project filename="231117-PrimeNumber/231117-PrimeNumber.cbp" />
 		<Project filename="231118-Weather/231118-Weather.cbp" />
+		<Project filename="231123-function/231123-function.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
