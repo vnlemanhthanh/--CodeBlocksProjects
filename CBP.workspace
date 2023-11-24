@@ -13,5 +13,7 @@
 		<Project filename="231117-PrimeNumber/231117-PrimeNumber.cbp" />
 		<Project filename="231118-Weather/231118-Weather.cbp" />
 		<Project filename="231123-function/231123-function.cbp" />
+		<Project filename="231123-tictactoe/231123-tictactoe.cbp" />
+		<Project filename="231124-CharacterStrings/231124-CharacterStrings.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
